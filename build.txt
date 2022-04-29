@@ -1,0 +1,3 @@
+displayName = Berserk Mod
+author = Scripar
+version = 0.5
